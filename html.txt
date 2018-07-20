@@ -6,5 +6,5 @@
 
 1.js文件来源于 https://github.com/amibug/fly 
 2.id等于flyimg的input   存放商品的图片 飞入的图片来源
-3.根据网站结合的ectouch的现状  因为js模板引擎动态填入数据  比较方便的直接用inclick执行函数 
+3.根据网站结合的ectouch的现状  因为js模板引擎动态填入数据  比较方便的直接用onclick执行函数 
 4.input放在循环外面
